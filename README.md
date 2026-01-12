@@ -1,2 +1,3 @@
 # demo-repo
-Initialized file
+demo repository
+author-kavya
